@@ -55,20 +55,22 @@ karan = {
 
 ---
 
+## Problem Domains
+
+| Domain | Experience |
+|--------|-----------|
+| **Fraud Detection** | Supervised + unsupervised, production-scale on 1M+ live transactions |
+| **Credit Risk** | Scoring models, NPA prevention, regulatory alignment (RBI FREE-AI) |
+| **LLM Systems** | RAG pipelines, LoRA fine-tuning, prompt engineering, hybrid retrieval |
+| **Time Series** | Stock forecasting, stationarity testing, EMH validation |
+
+---
+
 ## Highlights
 
 - **Great Hiring Hackathon** — Ranked 109/1,010 (Top 11%) · Traffic volume prediction using ML
 - **Yale University** — Financial Markets Certification (Coursera, 2024)
 - **Intellect Design Arena** (Intern) — Unsupervised fraud detection on 1M+ live Oracle DB transactions using Isolation Forest + MLflow
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaranMatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMatt&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
