@@ -14,7 +14,7 @@
 ```python
 karan = {
     "role"        : "AI/ML Engineer — FinTech focused",
-    "education"   : "BTech CSE (AIML) @ SRMIST | CGPA 8.7 | 2026",
+    "education"   : "BTech CSE (AIML) @ SRMIST | CGPA 8.7 | May 2026",
     "experience"  : "ML Intern @ Intellect Design Arena — 1M+ transaction fraud pipeline",
     "builds"      : "End-to-end ML systems with reproducible deployment",
     "specializes" : ["LoRA/QLoRA", "RAG Systems", "MLOps", "Financial ML"],
@@ -33,7 +33,7 @@ karan = {
 | [**Credit Card Fraud Detection**](https://github.com/KaranMatt/Credit-Card-Fraud-Detection) | RF · Isolation Forest · FastAPI · MLflow · DVC | 92% precision · 88.66% ROC-AUC | Potentially Rs. 200–300 Cr/yr |
 | [**Credit Score Classifier**](https://github.com/KaranMatt/Credit-Score-Classfication) | XGBoost · FastAPI · DVC | 83.6% ROC-AUC · 100K+ records | Potentially Rs. 19K–35K Cr NPA |
 | [**Crypto LLM RAG System**](https://github.com/KaranMatt/crypto-llm-rag) | Qwen2.5-1.5B · FAISS+BM25 · FastAPI | 100% citation accuracy · 4GB VRAM | Financial QA |
-| [**Finance Alpaca LoRA Finetune**](https://github.com/KaranMatt/Finance-Alpaca-Lora-Finetuning) | Qwen2-0.5B · 8-bit LoRA · MLflow | 61.2% accuracy · 8GB VRAM efficient | Potentially Rs. 150 Cr |
+| [**Finance Alpaca LoRA Finetune**](https://github.com/KaranMatt/Finance-Alpaca-Lora-Finetuning) | Qwen2-0.5B · 8-bit LoRA · MLflow | 61.2% accuracy · 8GB VRAM efficient | Regulatory-aligned financial QA |
 | [**Netflix Stock Forecasting**](https://github.com/KaranMatt/netflix-stock-forecasting) | ARIMA · LSTM · GRU · FastAPI | MASE < 1 · 28-feature pipeline | EMH validated · 23yr data |
 
 ---
