@@ -1,56 +1,128 @@
-<h1 align="center">Hi 👋, I'm Karan Mattoo</h1>
-<h3 align="center">🤖 AI/ML Engineer | GenAI • MLOps • FinTech | Mumbai, India</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:karankmattoo@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Karan%20Mattoo&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%E2%80%A2%20MLOps%20%E2%80%A2%20FinTech&descAlignY=62&descSize=18&animation=fadeIn" />
+
+<p>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:karankmattoo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/KaranMatt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=KaranMatt&label=Profile+Views&color=6366f1&style=flat" />
 
-### 🚀 About Me
-- 🎓 BTech CSE (AIML) @ **SRMIST** | CGPA: **8.7** | Graduating May 2026
-- 💼 Ex-Intern @ **Intellect Design Arena** — built fraud detection pipeline on 1M+ real transactions
-- 🧠 Specializing in **ML, Deep Learning, GenAI (RAG, LLM Fine-tuning)** and **MLOps**
-- 🏆 Top 11% in Great Hiring Hackathon (109/1,010) | Yale Financial Markets Certified
+</div>
 
----
+***
 
-### 🛠️ Tech Stack
+## ⚡ TL;DR — Who Am I?
+
+```python
+karan = {
+    "role"        : "AI/ML Engineer (Fresher) — FinTech focused",
+    "education"   : "BTech CSE (AIML) @ SRMIST | CGPA 8.7 | May 2026",
+    "experience"  : "ML Intern @ Intellect Design Arena — fraud pipeline on 1M+ live transactions",
+    "builds"      : "End-to-end ML systems: data → model → FastAPI → MLflow/DVC tracked deployment",
+    "specializes" : ["LLM Fine-tuning (LoRA/QLoRA)", "RAG Systems", "MLOps", "Financial ML"],
+    "achievements": ["Top 11% — Great Hiring Hackathon (109/1010)", "Yale Financial Markets Certified"],
+    "contact"     : "karankmattoo@gmail.com | Mumbai, India 🇮🇳"
+}
+```
+
+> 💡 I don't just train models — I **ship them**. Every project below is deployed via FastAPI with experiment tracking, versioning, and reproducibility baked in.
+
+***
+
+## 🚀 Projects at a Glance
+
+> Click any project to explore the full repo, architecture, and results.
+
+| # | Project | Stack | Key Result | Business Impact |
+|---|---------|-------|-----------|-----------------|
+| 🔍 | [**Credit Card Fraud Detection**](#) | Random Forest · Isolation Forest · FastAPI · MLflow · DVC | 92% precision · 88.66% ROC-AUC on 284K txns | 💰 Prevents ₹200–300 Cr/yr for 1M+ cardholder banks |
+| 📊 | [**Credit Score Classifier**](#) | XGBoost · Random Forest · FastAPI · DVC | 83.6% ROC-AUC on 100K+ records | 💰 ₹19K–35K Cr in NPA prevention potential |
+| 🤖 | [**Crypto LLM RAG System**](#) | Qwen2.5-1.5B · FAISS+BM25 · Cross-Encoder · FastAPI | 100% citation consistency · 3–5s inference on 4GB VRAM | Multi-domain financial QA system |
+| 💸 | [**Finance Alpaca LoRA Finetune**](#) | Qwen2-0.5B · 8-bit LoRA · Paged AdamW | 61.2% accuracy · 1.788 val loss · 8GB VRAM efficient | Aligned with RBI FREE-AI · ₹150 Cr savings target |
+| 📈 | [**Netflix Stock Forecasting**](#) | ARIMA · LSTM · GRU · FastAPI | MASE < 1 on returns · 28-feature pipeline | Empirically validated EMH using 23yrs / 5,940 days of data |
+
+***
+
+## 🛠️ Tech Stack
 
 **Languages & Databases**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+
+
+
+
 
 **ML / DL / GenAI**
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+
+
+
+
+
+
+
+
+**GenAI Specializations**
+
+
+
+
+
+
 
 **MLOps & Deployment**
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dvc&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
----
 
-### 📌 Featured Projects
 
-| Project | Highlights |
-|---|---|
-| 🔍 [Credit Card Fraud Detection](#) | 284K transactions, Random Forest 92% precision, FastAPI + MLflow deployed |
-| 📊 [Credit Score Classifier](#) | XGBoost, 83.6% ROC-AUC, FastAPI + DVC on 100K+ records |
-| 📈 [Netflix Stock Forecasting](#) | 23yr data, ARIMA/LSTM/GRU, validated EMH with MASE metric |
-| 🤖 [Crypto LLM RAG System](#) | Qwen2.5-1.5B, FAISS+BM25 hybrid retrieval, 100% citation consistency |
-| 💰 [Finance Alpaca LoRA Finetuning](#) | Qwen2-0.5B, 8-bit LoRA, 8GB VRAM efficient pipeline |
 
----
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranMatt&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMatt&theme=tokyonight" />
-</p>
+
+***
+
+## 🏆 Achievements
+
+🥇 **Great Hiring Hackathon** — Ranked **109 out of 1,010** participants *(Top 11%)* · Built a traffic volume prediction model using ML
+
+🎓 **Yale University** — Financial Markets Certification *(Coursera, 2024)*
+
+📚 **SRMIST** — CGPA **8.7 / 10** in BTech CSE with AIML Specialization
+
+***
+
+## 💼 Experience
+
+**ML Intern @ Intellect Design Arena Ltd** *(Aug – Sep 2025)*
+
+- Built an **end-to-end unsupervised fraud detection pipeline** ingesting **1M+ live transaction records** from Oracle DB via SQL
+- Implemented **Isolation Forest** with **MLflow** for model versioning, hyperparameter logging & drift monitoring
+- Evaluated company's proprietary ML framework for production-readiness and drift detection capabilities
+
+***
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaranMatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMatt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+***
+
+<div align="center">
+
+*"The best model is the one that ships."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+
+</div>
